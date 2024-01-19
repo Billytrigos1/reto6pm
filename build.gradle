@@ -44,9 +44,9 @@ dependencies {
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
 
 }
-// Para configurar propiedades del comando de ejecucion de pruebas con Gradle
+// Para configurar propiedades del comando de ejecucion de amazon con Gradle
 test {
-//Ignorar los fallos es ejecutar todas las pruebas asi alguna falle
+//Ignorar los fallos es ejecutar todas las amazon asi alguna falle
     ignoreFailures = true
 }
 // Configurar el encoding del proyecto
